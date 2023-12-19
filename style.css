@@ -1,0 +1,105 @@
+
+.body{
+  margin: 20px;
+  border-radius: 50px;
+ 
+margin-left: auto;
+margin-right: auto;
+
+}
+.avatar{
+width: 200px;
+size: 50px;
+text-align: center;
+margin-left: 10px;
+}
+
+.card {
+  width: 600px;
+
+  margin-left: auto;
+  margin-right: auto;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+padding: 28px;
+display: flex;
+justify-content: space-between;
+background: #eff0c5;
+color: #6f6988;
+border-bottom: 6px solid #ffb319;
+text-align: center;
+
+}
+
+
+.border-blue{
+  width: 200px;
+ text-align: center;
+  margin-right: 100px;
+  margin-top: 25px;
+ 
+}
+
+
+
+
+
+
+/*
+.logo{
+  display: block;
+    width: 200px;
+    margin-top: 300px;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+   
+.blank {
+  display: block;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 24px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border: 1px solid #dfe1e5;
+    border-radius: 24px;
+  }
+
+.btn{
+
+
+  
+  margin-top: 30px;
+  background: #dddee2;
+  border: none;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 16px;
+  padding-right: 16px;
+  border-radius: 4px;
+  font-size: 14px;
+
+}
+ 
+/*
+ color: black;
+  background: rgb(116, 116, 116);
+  width: 300px;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+
+
+  border: 8px solid plum;
+  border-radius: 30px;
+  
+  
+
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+*/
